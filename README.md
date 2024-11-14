@@ -1,16 +1,38 @@
-## Hi there 👋
+<h3> Sejam bem vindos ao meu perfil, meu nome é João André! 👋 </h3>
 
-<!--
-**Jota774/Jota774** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+Sobre mim: 
+<br>
+<br>
+🔭 técnico em programação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨🏻‍💻 Uns dos estudantes de programação do curso de Desenvolvimento de Jogos Digitais da Etec Avaré
+
+✨ Apaixonado por tecnologia,mecanica e 
+
+😄 Pronomes: Ele/Dele - He/Him
+
+🥋 Atleta de karatê (faixa verde). Oss!
+
+⚡ Fun-fact: O melhor mono **Lillia** do mundo. 🌸 (A confirmar)
+
+<br>
+<br>
+
+Atualmente estudando desenvolvimento de jogos e websites, com foco em **C#**, **Unity** e **JavaScript**. Neste repositório, você também encontrará projetos com Java e Python!
+
+<div style='display:inline'>
+
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
+
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
+
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />     
+

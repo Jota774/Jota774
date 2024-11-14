@@ -9,13 +9,11 @@ Sobre mim:
 
 👨🏻‍💻 Uns dos estudantes de programação do curso de Desenvolvimento de Jogos Digitais da Etec Avaré
 
-✨ Apaixonado por tecnologia,mecanica e 
+✨ Apaixonado por tecnologia,mecanica e ciencia
 
-😄 Pronomes: Ele/Dele - He/Him
+😄 Pronomes: Ele/Dele
 
-🥋 Atleta de karatê (faixa verde). Oss!
-
-⚡ Fun-fact: O melhor mono **Lillia** do mundo. 🌸 (A confirmar)
+✨ Jogador profissional de truco,cacheta,21
 
 <br>
 <br>

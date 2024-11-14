@@ -18,7 +18,7 @@ Sobre mim:
 <br>
 <br>
 
-Atualmente estudando desenvolvimento de jogos e websites, com foco em **C#**, **Unity** e **JavaScript**. Neste repositório, você também encontrará projetos com Java!
+Atualmente estudando desenvolvimento de jogos e websites, com foco em **C#**, **Unity** e **JavaScript**. Neste repositório, você também encontrará projetos como:
 
 <div style='display:inline'>
 

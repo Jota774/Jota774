@@ -11,9 +11,6 @@ Sobre mim:
 
 ✨ Apaixonado por tecnologia,mecanica e ciencia
 
-😄 Pronomes: Ele/Dele
-
-✨ Jogador profissional de truco,cacheta,21
 
 <br>
 <br>
